@@ -8,6 +8,7 @@ nav:
     - Solutions: 04-solutions.md
     - Careers: 05-careers.md
   - Glossary: glossary.md
+  - References: references.md
   - Contacts: contact.md
 
 site_description: 'Resources for teaching Python to CoderDojo Twin Cities students.'
