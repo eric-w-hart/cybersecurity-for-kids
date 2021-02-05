@@ -1,4 +1,4 @@
-# Cybersecurity Careers
+# Careers in Computer Security
 
 This page will discuss career opportunities in the Computer Security field.
 
