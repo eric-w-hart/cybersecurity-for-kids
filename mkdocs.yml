@@ -1,0 +1,39 @@
+site_name: 'Cybersecurity for Kids'
+nav:
+  - CoderDojo Mentor Resources: https://coderdojotc.github.io/CoderDojoTC/
+  - Cybersecurity for Kids:
+    - Introduction: 01-intro.md
+    - Concepts: 02-concepts.md
+    - Threats: 03-threats.md
+    - Solutions: 04-solutions.md
+  - Careers: careers.md
+  - Glossary: glossary.md
+  - Contacts: contact.md
+
+site_description: 'Resources for teaching Python to CoderDojo Twin Cities students.'
+site_author: 'Dan McCreary'
+repo_name: 'python'
+repo_url: 'https://github.com/CoderDojoTC/python'
+edit_uri: 'blob/master/docs'
+theme:
+  name: material
+  logo: img/coderdojo-logo.png
+  palette:
+    primary: '#642580'
+    accent: '#41BAC1'
+  feature:
+    tabs: true
+  custom_dir: 'theme'
+  include_sidebar: true
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - codehilite:
+      linenums: true
+plugins:
+    - search
+markdown_extensions:
+  - codehilite:
+      linenums: true
