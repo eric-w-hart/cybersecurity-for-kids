@@ -9,11 +9,15 @@ The use of electronic communication to bully a person, typically by sending mess
 
 #### Encryption
 
+#### Firewall
+
 #### Keyloggers
 
 #### Hacking
 
 #### Hijacking
+
+#### Home Network Security
 
 #### Identity Theft
 
@@ -29,6 +33,8 @@ The use of electronic communication to bully a person, typically by sending mess
 
 #### Ransomware
 
+#### ROT-13
+
 #### SSL - Secure Sockets Layer
 
 #### Spyware
@@ -40,6 +46,8 @@ The use of electronic communication to bully a person, typically by sending mess
 #### Trojans
 
 #### Viruses
+
+#### WiFi Security
 
 #### Worms
 
