@@ -2,22 +2,25 @@
 
 The goal of this activity is to learn to find out how your computer is connected to the internet.
 
-## Step 1: What is My IP Address?
+## Beginning Labs
+Beginning labs only require a web browser.
 
-Each computer on the internet is assigned its own Internet Protocol Address.  What is the address assigned to your computer?  (Hint: use a search to find a service that tells you what your IP address is)
+### Lab 1: What is my IP address?
 
-## Step 2: What is the name of your WiFi Network
+Each computer on the internet is assigned its own Internet Protocol Address.  What is the address assigned to your computer?  (Hint: use a search to find a service that tells you what your IP address is).
+
+### Lab 2: What is your WiFi network name?
 
 Each computer that uses WiFi must connect to the network through a WiFi router that has a name?  How can you find out what your WiFi network name is?
 (Hint: use a search service to find the instructions for your device: Chrome, Windows, Mac, iPad)
 
 ## Step 3: How fast is your connection?
 
-Look for a program that can test your connection speed.  What is your download and upload speed?
+Look for a program that can test your connection speed.  What is your download and upload speed?  What other information can you find about 
 
 ## Advanced Labs
 
-To do these labs, you will need to access your computer's command shell or Terminal (on the Mac).
+To do these labs, you will need to access your computer's command shell or Terminal (on the Mac).  If you are running ChromeOS your school may not have the ChromOS shell installed.
 
 ### Ping Test Lab
 
@@ -56,3 +59,5 @@ Questions:
 
 1. Why do you think there are variations in the times?
 2. What do you think happens if one of the computers connecting your computers goes down? (crashes)
+
+#### 

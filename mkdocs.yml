@@ -9,8 +9,8 @@ nav:
     - Careers: 05-careers.md
   - Activities:
     - Introduction: activities/01-intro.md
-    - ROT13 Game: activities/02-rot13.md
-    - Network Scavenger Hunt: activities/02-network-scavenger-hunt.md
+    - ROT13 Game: activities/02-rot13-game.md
+    - Network Scavenger Hunt: activities/03-network-scavenger-hunt.md
   - Glossary: glossary.md
   - References: references.md
   - Contacts: contact.md
