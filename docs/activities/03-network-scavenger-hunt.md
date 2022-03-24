@@ -14,9 +14,20 @@ Each computer on the internet is assigned its own Internet Protocol Address.  Wh
 Each computer that uses WiFi must connect to the network through a WiFi router that has a name?  How can you find out what your WiFi network name is?
 (Hint: use a search service to find the instructions for your device: Chrome, Windows, Mac, iPad)
 
-## Step 3: How fast is your connection?
+## Lab 3: How fast is your internet connection?
 
-Look for a program that can test your connection speed.  What is your download and upload speed?  What other information can you find about 
+Look for a program that can test your connection speed.  What is your download and upload speed?  What other information can you find about the time it takes to send a short packet of information back and forth from the server (latency).
+
+## Lab 4: What is your MAC address?
+
+For each network interface in your computer, there is a unique MAC address associated with it. This is called the Media Access Control (MAC) address.  This number is permanently burned into each device when it is manufactured and it is guaranteed to be unique across the internet.
+
+You usually can find MAC addresses in the system settings, general information, or network settings/status of your device. Sometimes the MAC address is printed on a property tag or label so that your organization can track the device.
+
+Here are some instructions on finding the MAC address on your Windows or Mac:
+[What's a MAC Address and how do I find it?](https://slts.osu.edu/articles/whats-a-mac-address-and-how-do-i-find-it/)
+
+Note that in this case "MAC" has nothing to do with the Apple Mac operating system!
 
 ## Advanced Labs
 
@@ -60,4 +71,14 @@ Questions:
 1. Why do you think there are variations in the times?
 2. What do you think happens if one of the computers connecting your computers goes down? (crashes)
 
-#### 
+### Traceroute
+
+You can also see the exact route that your computer takes to send data to and from any report system.  This is useful for debugging things when your connection to the internet is down.
+
+```sh
+traceroute www.google.com
+```
+
+This will show you the times it takes to reach each of the computers between your computers and the destination computer.
+
+Search for "How to use traceroute on Windows/Mac" for more details.
