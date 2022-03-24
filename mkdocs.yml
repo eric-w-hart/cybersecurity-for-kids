@@ -15,9 +15,9 @@ nav:
   - References: references.md
   - Contacts: contact.md
 
-site_description: 'Resources for teaching Python to CoderDojo Twin Cities students.'
+site_description: 'Cybersecurity for Kids: Creative Commons licensed content for CoderDojo programs.'
 site_author: 'Dan McCreary'
-repo_name: 'python'
+repo_name: 'GitHub Repo'
 repo_url: 'https://github.com/CoderDojoTC/cybersecurity-for-kids'
 edit_uri: 'blob/master/docs'
 theme:
