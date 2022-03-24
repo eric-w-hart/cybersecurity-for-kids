@@ -14,11 +14,17 @@ Each computer on the internet is assigned its own Internet Protocol Address.  Wh
 Each computer that uses WiFi must connect to the network through a WiFi router that has a name?  How can you find out what your WiFi network name is?
 (Hint: use a search service to find the instructions for your device: Chrome, Windows, Mac, iPad)
 
-## Lab 3: How fast is your internet connection?
+### Lab 3: Who provides your internet connection?
+
+Every IP address is managed by a company that connects this address to the internet.  That company is called your *Internet Services Provider*.
+
+Here is a tool that will help you find your ISP: [https://www.whoismyisp.org/](https://www.whoismyisp.org/)
+
+## Lab 4: How fast is your internet connection?
 
 Look for a program that can test your connection speed.  What is your download and upload speed?  What other information can you find about the time it takes to send a short packet of information back and forth from the server (latency).
 
-## Lab 4: What is your MAC address?
+## Lab 5: What is your MAC address?
 
 For each network interface in your computer, there is a unique MAC address associated with it. This is called the Media Access Control (MAC) address.  This number is permanently burned into each device when it is manufactured and it is guaranteed to be unique across the internet.
 
