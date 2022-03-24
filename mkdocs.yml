@@ -7,6 +7,10 @@ nav:
     - Threats: 03-threats.md
     - Solutions: 04-solutions.md
     - Careers: 05-careers.md
+  - Activities:
+    - Introduction: activities/01-intro.md
+    - ROT13 Game: activities/02-rot13.md
+    - Network Scavenger Hunt: activities/02-network-scavenger-hunt.md
   - Glossary: glossary.md
   - References: references.md
   - Contacts: contact.md
