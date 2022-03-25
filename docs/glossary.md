@@ -22,21 +22,30 @@ The use of electronic communication to bully a person, typically by sending mess
 
 Software used to protect the confidentiality of a message. Cryptographically secure ciphers are designed to make any practical attempt of breaking them infeasible. Symmetric-key ciphers are suitable for bulk encryption using shared keys, and public-key encryption using digital certificates can provide a practical solution for the problem of securely communicating when no key is shared in advance.
 
-#### Ethical Hacking
+#### Ethical Hacking  
 
-Rules of Engagement
+Using the actions of criminals to gain unauthorized access to computer systems, applicaitons or data while having persmission to perform an authorized attempt.The main goal is to discover vulnerabilities that can be exploited, demonstrate how the access was gained and provide detailed instruction on how to fix the vulnerabilities. Every ethical hacking attempt has rules of engagement, which defines how an ethical hack would be laid out, what methodology will be used, the start and end dates, the milestones, the goals of the penetration test, the liabilities and responsibilities. 
+
 
 #### Firewall
 
- Gatekeeper systems between networks that only allows traffic that matches defined rules.
+Gatekeeper systems between networks that only allows traffic that matches defined rules.
  
- Firewalls often include detailed logging, and may include intrusion detection and intrusion prevention features. They are near-universal between company local area networks and the Internet, but can also be used internally to impose traffic rules between networks if network segmentation is configured.
+Firewalls often include detailed logging, and may include intrusion detection and intrusion prevention features. They are near-universal between company local area networks and the Internet, but can also be used internally to impose traffic rules between networks if network segmentation is configured.
 
-#### Keyloggers
+#### Keyloggers  
 
-#### Hacking
+Malicious forms of software and hardware that can detect the input from a computer's keyboard and save it for retrieval later or send it to a server connected over the internet to steal data from the victim's computer. Used to steal sensitive information such as logins, passwords, credit cards and other forms of protected data. 
 
-#### Hijacking
+
+#### Hacking  
+
+An individual with technical computer skills but often refers to individuals who use their skills to breach cybersecurity defenses.  
+The term is often used inappropriately to refer to criminals who use these skills to perform illegal acts of computer theft. 
+
+#### Hijacking  
+A network security attack where the attacker takes control of computer systems, software and / or network communications.  
+
 
 #### Home Network Security
 
