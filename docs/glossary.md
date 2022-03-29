@@ -44,36 +44,57 @@ An individual with technical computer skills but often refers to individuals who
 The term is often used inappropriately to refer to criminals who use these skills to perform illegal acts of computer theft. 
 
 #### Hijacking  
+
 A network security attack where the attacker takes control of computer systems, software and / or network communications.  
 
 
-#### Home Network Security
+#### Home Network Security  
 
-#### Honey pots
+Home network security refers to the protection of a network that connects devices—such as routers, computers, smartphones, and Wi-Fi-enabled baby monitors and cameras—to each other and to the internet within a home.  
+
+#### Honey pots  
+
 Computers that are intentionally left vulnerable to attack by crackers. They can be used to catch crackers and to identify their techniques.
 
-#### Identity Theft
+#### Identity Theft  
+
+Identity (ID) theft happens when someone steals your personal information to commit fraud.
+
+The identity thief may use your information to apply for credit, file taxes, or get medical services. These acts can damage your credit status, and cost you time and money to restore your good name.
 
 #### Intrusion-detection system
 
 Devices or software applications that monitor networks or systems for malicious activity or policy violations.
 
-#### Malware
+#### Malware  
 
-#### Passwords
+Malware, short for “malicious software,” refers to any intrusive software developed by cybercriminals (often called “hackers”) to steal data and damage or destroy computers and computer systems. Examples of common malware include viruses, worms, Trojan viruses, spyware, adware, and ransomware. Recent malware attacks have exfiltrated data in mass amounts.  
 
-#### Port scan
+#### Passwords  
+
+Passwords are secrets, usually a word or a phrase, that must be used to gain access to something. 
+
+#### Port scan  
+
 A probe an IP address for open ports to identify accessible network services and applications.
 
-#### Phishing
+#### Phishing  
 
-#### Pharming
+Phishing is an attempt by cybercriminals posing as legitimate institutions, usually via email, to obtain sensitive information from targeted individuals.  
+
+#### Pharming  
+
+Pharming is a way of directing internet users to a bogus website that mimics the appearance of a legitimate one, in order to obtain personal information such as passwords, account numbers, etc.  
 
 #### Privacy Settings
 
-#### Ransomware
+#### Ransomware  
 
-#### ROT-13
+Ransomware is a form of malware that uses encryption as part of the attack on a victim's computer. It does so by making the victim's information unusable by encrypting it so the user cannot access files, databases or applications. The criminal will then demand a form of payment, usually in bitcoin or a similar form of payment, to unlock, or decrypt, the computer. 
+
+#### ROT-13  
+
+ROT-13 or sometimes written, ROT13, is a simple letter substitution cipher that replaces a letter with the 13th letter after it in the alphabet. For example, if the original text is the letter D, the ROT-13 cipher would be the letter Q.  
 
 #### SSL - Secure Sockets Layer
 
@@ -89,7 +110,9 @@ A probe an IP address for open ports to identify accessible network services and
 
 #### WiFi Security
 
-#### Worms
+#### Worms  
+
+A computer worm is a type of malware that spreads copies of itself form computer to computer. It can replicate itself without any help from a human and it does not need to attach itself to a computer program in order to cause damage to software, hardware or a computer network.  
 
 #### zero-day Exploit
 
