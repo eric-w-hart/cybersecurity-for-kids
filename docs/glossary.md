@@ -27,12 +27,13 @@ Software used to protect the confidentiality of a message. Cryptographically sec
 Using the actions of criminals to gain unauthorized access to computer systems, applicaitons or data while having persmission to perform an authorized attempt.The main goal is to discover vulnerabilities that can be exploited, demonstrate how the access was gained and provide detailed instruction on how to fix the vulnerabilities. Every ethical hacking attempt has rules of engagement, which defines how an ethical hack would be laid out, what methodology will be used, the start and end dates, the milestones, the goals of the penetration test, the liabilities and responsibilities. 
 
 
-#### Firewall
+#### [Firewall](./html/firewall.html)
 
 Gatekeeper systems between networks that only allows traffic that matches defined rules.
  
 Firewalls often include detailed logging, and may include intrusion detection and intrusion prevention features. They are near-universal between company local area networks and the Internet, but can also be used internally to impose traffic rules between networks if network segmentation is configured.
 
+* [Explore Firewall Settings](./html/explore_firewall_settings.html)
 #### Keyloggers  
 
 Malicious forms of software and hardware that can detect the input from a computer's keyboard and save it for retrieval later or send it to a server connected over the internet to steal data from the victim's computer. Used to steal sensitive information such as logins, passwords, credit cards and other forms of protected data. 
@@ -78,10 +79,11 @@ Passwords are secrets, usually a word or a phrase, that must be used to gain acc
 
 A probe an IP address for open ports to identify accessible network services and applications.
 
-#### Phishing  
+#### [Phishing](./html/phishing.html)  
 
 Phishing is an attempt by cybercriminals posing as legitimate institutions, usually via email, to obtain sensitive information from targeted individuals.  
 
+* [Email Phishing](./html/phishing_email.html)
 #### Pharming  
 
 Pharming is a way of directing internet users to a bogus website that mimics the appearance of a legitimate one, in order to obtain personal information such as passwords, account numbers, etc.  
@@ -100,9 +102,9 @@ ROT-13 or sometimes written, ROT13, is a simple letter substitution cipher that 
 
 #### Spyware
 
-#### SPAM
+#### [SPAM](./html/spam.html)
 
-#### Two Factor Authentication
+#### [Two Factor Authentication](./html/2FA.html)
 
 #### Trojans
 
