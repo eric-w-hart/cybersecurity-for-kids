@@ -19,5 +19,5 @@ In this game students have to find out things such as:
 
 The beginning activities can usually be done using  just a web browser.  Some of the advanced exercises require using a command prompt.
 
-The activities are [here](activities/03-network-scavenger-hunt.md)
+The activities are [here](03-network-scavenger-hunt.md)
 
