@@ -6,7 +6,7 @@ Here are some sample activities we have created:
 
 ## The ROT13 Game
 
-Get students to convert cleartext into encrypted text using a simple a simple letter substitution method. The activity is [here](activities/02-rot13-game.md)
+Get students to convert cleartext into encrypted text using a simple a simple letter substitution method. The activity is [here](02-rot13-game.md)
 
 ## Network Scavenger Hunt
 
